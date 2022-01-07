@@ -11,6 +11,7 @@ bool stringComplete =false;
 bool numberComplete =false;
 String str1 = "";
 String oldStr1="";
+
 static LCDBackLight backLight;
 
 void setup(void) {
