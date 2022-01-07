@@ -14,4 +14,4 @@ Sending **`{S=<string>}`** will display the string. **`<string>`** cannot have *
 ### Examples:
 To adjust the brightness to **10**, send **`{B=10}`** \
 To change the string value to **BED** send **`{S=BED}`** \
-To check the connection and serial device name send **`{whoami}`**
+To check the connection and serial device name send **`{whoami}`**.
